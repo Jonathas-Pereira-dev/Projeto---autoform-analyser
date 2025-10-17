@@ -17,7 +17,7 @@ SQLAlchemy / Alembic — ORM e controle de migrações
 Pandas — Manipulação de dados e planilhas
 
 Frontend (futuro) — HTML, CSS, JS (ou React)
-
+ 
 🗄️ Estrutura de Dados
 
 Os dados preenchidos pelos operadores são armazenados no PostgreSQL, organizados por:

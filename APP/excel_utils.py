@@ -2,7 +2,7 @@ from openpyxl import load_workbook
 import datetime
 
 def atualizar_planilha(resultado):
-    caminho = "FT-5.82.AD.BA6XX-403 - ANEXO 1.xlsm"
+    caminho = "___________________"
     wb = load_workbook(caminho, keep_vba=True)
     ws = wb.active
 
